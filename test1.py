@@ -1,3 +1,3 @@
-a = 8
-b = 3
+a = "Abc"
+b = "def"
 print a+b
